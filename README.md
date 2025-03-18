@@ -1,3 +1,3 @@
 # Auxiliary Indicators
 
-Code and application to epidemiology will be uploaded soon.
+Code and application will be uploaded soon.
