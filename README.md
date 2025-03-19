@@ -1,3 +1,2 @@
-# Auxiliary Indicators
-
-Code and application will be uploaded soon.
+# auxiliary_indicators
+Code will be uploaded soon
